@@ -10,4 +10,4 @@ in this version
 3) Client Get random number from AP Server
 4) Client Post random number +100 back to AP Server
 
-[img]https://github.com/SmazControl/ESP8266_AP_STA/blob/master/ESP8266_AP_STA.png?raw=true[/img]
+[img]https://github.com/SmazControl/ESP8266_AP_STA/blob/master/ESP8266_AP_STA.png[/img]
